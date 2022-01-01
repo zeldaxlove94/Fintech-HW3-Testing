@@ -215,8 +215,6 @@ plt.show()
 
 ```
 
-以上為程式說明，具體的結果報告在 Financial Technology HW3 Assignment.pdf 上
-
 ## 參考 Reference
 https://machinelearningmastery.com/nested-cross-validation-for-machine-learning-with-python/ \
 https://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/ \
