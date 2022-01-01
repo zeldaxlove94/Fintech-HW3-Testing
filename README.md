@@ -1,8 +1,5 @@
 # 11010COM525200 Financial Technology Program HW3
 
-
-林咏丘 通訊工程研究所 110064466
-
 ## 必要的套件 Needed Python Extension Packages (Python 3.9.7)
 
 must import **yfinanc , numpy , pandas , talib ,  matplotlib , sklearn** Packages in order to run the program
