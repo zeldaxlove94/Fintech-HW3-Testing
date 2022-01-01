@@ -222,5 +222,5 @@ plt.show()
 
 ## 參考 Reference
 https://machinelearningmastery.com/nested-cross-validation-for-machine-learning-with-python/ \
-https://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/\
+https://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/ \
 *Methon reference from : Book by Marcos López de Prado 'Advances in Financial Machine Learning'*
